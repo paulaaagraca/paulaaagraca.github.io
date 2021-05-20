@@ -4,7 +4,7 @@ I am currently a first year PhD student at Faculty of Engineering of the Univers
 
 My reaserch focuses on Underwater Acoustic Communications and methods, with special interest in Digital Circuits, Signal Processing and Underwater Robotics.
 
-[CV](https://paulaaagraca.github.io/cv.pdf)
+- [CV](https://paulaaagraca.github.io/cv.pdf)
 
 ### Work and Study
 
