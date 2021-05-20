@@ -1,39 +1,23 @@
-## About Me
+## About me
+
+I am currently a first year PhD student at Faculty of Engineering of the University of Porto and reasearcher at the Center of Robotics and Autonomous Systems of INESC TEC. Having concluded my master's degree in Electrical and Computer Engineering by FEUP in 2020, I became an Invited Assistent Lecturer at FEUP in the same year and since then taught the courses Laboratory of Digital Systems and Circuits I. My reaserch focuses on underwater acoustic communications and methods, with special interest in digital circuits, signal processing and underwater robotics.
 
 [CV](https://paulaaagraca.github.io/cv.pdf)
 
-You can use the [editor on GitHub](https://github.com/paulaaagraca/paulaaagraca.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Work and Study
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Researcher @ [CRAS](https://www.inesctec.pt/en/laboratories/robotics-and-autonomous-systems-laboratory) - [INESC TEC](https://www.inesctec.pt/en)
 
-### Markdown
+Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2020&pv_origem=CUR&pv_tipo_cur_sigla=D&pv_curso_id=682)
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
+Email: paag@fe.up.pt
 
-- Bulleted
-- List
+Github @ [paulaaagraca](https://github.com/paulaaagraca)
 
-1. Numbered
-2. List
+LinkedIn @ [paulaaagraca](https://www.linkedin.com/in/paulaaagraca/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulaaagraca/paulaaagraca.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Twitter @ [paulaaagraca](https://twitter.com/paulaaagraca)
