@@ -10,7 +10,7 @@ Researcher @ [CRAS](https://www.inesctec.pt/en/laboratories/robotics-and-autonom
 
 Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
 
-PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2020&pv_origem=CUR&pv_tipo_cur_sigla=D&pv_curso_id=682)
+PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2020&pv_origem=CUR&pv_tipo_cur_sigla=D&pv_curso_id=682)
 
 ### Contact
 
