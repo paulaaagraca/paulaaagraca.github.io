@@ -1,6 +1,8 @@
 ## About me
 
-I am currently a first year PhD student at Faculty of Engineering of the University of Porto and reasearcher at the Center of Robotics and Autonomous Systems of INESC TEC. Having concluded my master's degree in Electrical and Computer Engineering by FEUP in 2020, I became an Invited Assistent Lecturer at FEUP in the same year and since then taught the courses Laboratory of Digital Systems and Circuits I. My reaserch focuses on underwater acoustic communications and methods, with special interest in digital circuits, signal processing and underwater robotics.
+I am currently a first year PhD student at Faculty of Engineering of the University of Porto and reasearcher at the Center of Robotics and Autonomous Systems of INESC TEC. Having concluded my master's degree in Electrical and Computer Engineering by FEUP in 2020, I became an Invited Assistent Lecturer at FEUP in the same year and since then taught the courses Laboratory of Digital Systems and Circuits I. 
+
+My reaserch focuses on Underwater Acoustic Communications and methods, with special interest in Digital Circuits, Signal Processing and Underwater Robotics.
 
 [CV](https://paulaaagraca.github.io/cv.pdf)
 
