@@ -4,15 +4,21 @@ I am currently a first year PhD student at Faculty of Engineering of the Univers
 
 My reaserch focuses on Underwater Acoustic Communications and methods, with special interest in Digital Circuits, Signal Processing and Underwater Robotics.
 
-More information about my journey in my [CV](https://paulaaagraca.github.io/cv.pdf).
+More information about my journey in my [CV](#curriculum-vitae).
+
+
 
 ### Work and Study
 
 Researcher @ [CRAS](https://www.inesctec.pt/en/laboratories/robotics-and-autonomous-systems-laboratory) - [INESC TEC](https://www.inesctec.pt/en)
 
-Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
+Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=609232)
 
 PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2020&pv_origem=CUR&pv_tipo_cur_sigla=D&pv_curso_id=682)
+
+### Curriculum Vitae
+
+[cv.pdf](https://paulaaagraca.github.io/cv.pdf)
 
 ### Contact
 
