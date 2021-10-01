@@ -10,7 +10,7 @@ More information about my journey in my [CV](#curriculum-vitae).
 
 ### Work and Study
 
-Researcher @ [CRAS](https://www.inesctec.pt/en/laboratories/robotics-and-autonomous-systems-laboratory) - [INESC TEC](https://www.inesctec.pt/en)
+Research Assistant @ [CRAS - INESC TEC](https://www.inesctec.pt/en/people/paula-alexandra-graca)
 
 Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=609232)
 
