@@ -10,11 +10,11 @@ More information about my journey in my [CV](#curriculum-vitae).
 
 ### Work and Study
 
+PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2020&pv_origem=CUR&pv_tipo_cur_sigla=D&pv_curso_id=682)
+
 Research Assistant @ [CRAS - INESC TEC](https://www.inesctec.pt/en/people/paula-alexandra-graca)
 
 Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=609232)
-
-PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2020&pv_origem=CUR&pv_tipo_cur_sigla=D&pv_curso_id=682)
 
 ### Curriculum Vitae
 
