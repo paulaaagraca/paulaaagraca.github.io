@@ -4,7 +4,7 @@ I am currently a PhD student at Faculty of Engineering of the University of Port
 
 My research focuses on Underwater Acoustic Localization with special interest in Digital Systems, Signal Processing and Underwater Robotics.
 
-More information about my journey in my [CV](#curriculum-vitae).
+More information about my journey in my [CV](https://paulaaagraca.github.io/cv.pdf).
 
 
 
@@ -15,10 +15,6 @@ PhD Student @ [Doctoral Program in Electrical and Computer Engineering (FEUP)](h
 Research Assistant @ [CRAS - INESC TEC](https://www.inesctec.pt/en/people/paula-alexandra-graca)
 
 Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=609232)
-
-### Curriculum Vitae
-
-[cv.pdf](https://paulaaagraca.github.io/cv.pdf)
 
 ### Contact
 
