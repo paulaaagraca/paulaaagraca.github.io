@@ -18,7 +18,7 @@ Invited Assistant Lecturer @ [FEUP](https://sigarra.up.pt/feup/pt/func_geral.fo
 
 ### Contact
 
-Email: paag@fe.up.pt
+Email: paula.graca@fe.up.pt
 
 Github @ [paulaaagraca](https://github.com/paulaaagraca)
 
