@@ -4,7 +4,7 @@ I am currently a PhD student at the Faculty of Engineering of the University of 
 
 My research focuses on Underwater Acoustic Localization with special interest in Digital Systems, Signal Processing and Underwater Robotics.
 
-More information about my journey in my [CV](https://paulaaagraca.github.io/cv.pdf).
+More information about my journey in my academic [CV](https://paulaaagraca.github.io/cv.pdf).
 
 
 
