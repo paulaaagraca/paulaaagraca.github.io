@@ -1,6 +1,6 @@
 ## About me
 
-I am currently a PhD student at Faculty of Engineering of the University of Porto and research assistant at the Center of Robotics and Autonomous Systems of INESC TEC. Having concluded my master's degree in Electrical and Computer Engineering by FEUP in 2020, I became an Invited Assistant Lecturer at FEUP in the same year and since then taught the courses Digital Systems, Circuits I and Circuits II. 
+I am currently a PhD student at the Faculty of Engineering of the University of Porto and research assistant at the Center of Robotics and Autonomous Systems of INESC TEC. Having concluded my master's degree in Electrical and Computer Engineering by FEUP in 2020, I became an Invited Assistant Lecturer at FEUP in the same year and since then taught the courses Digital Systems, Circuits I, Circuits II and Thermodynamics and Structure of Matter. 
 
 My research focuses on Underwater Acoustic Localization with special interest in Digital Systems, Signal Processing and Underwater Robotics.
 
